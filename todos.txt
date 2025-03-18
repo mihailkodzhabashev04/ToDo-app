@@ -1,4 +1,4 @@
 study
 clean the house
 attend lectures
-code
+run 10k

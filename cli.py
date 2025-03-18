@@ -1,7 +1,7 @@
 import functions
 import time
 
-now = time.strftime("%d %b %Y, %H:%M")
+now = time.strftime("%d %b %Y, %H:%M:%S")
 while True:
     user_action = input('Enter add, show, edit, complete or exit: ')
     user_action = user_action.strip()
